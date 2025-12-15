@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimohammedassi" alt="alimohammedassi" /></a> </p>
 
-- 🔭 I’m currently working on **coreGYM**
+- 🔭 I’m currently working on **NEXBUY**
 
 - 🌱 I’m currently learning **FLUTTER & DART**
 
