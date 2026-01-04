@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **FLUTTER & DART**
 
-- 👨‍💻 All of my projects are available at [https://68459b498cd9ee75db4ec6ff--moonlit-truffle-a5c9ea.netlify.app/](https://68459b498cd9ee75db4ec6ff--moonlit-truffle-a5c9ea.netlify.app/)
 
 - 📫 How to reach me **aliabouali2005@gmail.com**
 
