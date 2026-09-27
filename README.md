@@ -9,18 +9,6 @@
      Profile README — drop this file in the repo: alimohammedassi/alimohammedassi
      ════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:02569B,55:13B9FD,100:7C3AED&text=ALI%20ASSI&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=Flutter%20Developer%20%20•%20%20UI%2FUX%20Designer&descSize=19&descAlignY=56&animation=fadeIn" alt="ALI ASSI — Flutter Developer & UI/UX Designer"/>
-
-<div align="center">
-
-<a href="https://komarev.com/ghpvc/?username=alimohammedassi&color=13B9FD&style=for-the-badge&label=PROFILE+VIEWS">
-  <img src="https://komarev.com/ghpvc/?username=alimohammedassi&color=13B9FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=640&height=50&lines=Flutter+Developer+🚀;UI%2FUX+Designer+🎨;Building+NEXBUY+🛒;Powered+by+protein+%26+projects+💪" alt="Typing animation"/>
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
