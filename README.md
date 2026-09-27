@@ -16,12 +16,12 @@
 ```yaml
 name: ALI ASSI
 role: Flutter Developer × UI/UX Designer
-currently_building: NEXBUY 🛒
+currently_building: CORE
 fuel: [protein, projects] 💪
 philosophy: "Every pixel earns its place."
 ```
 
-- 🔭 Currently building **NEXBUY** — a full e-commerce experience in Flutter
+- 🔭 Currently building **Core** 
 - 💪 **Flutter Dev × Gym Life** — same discipline, different muscle
 - 🎨 **UI/UX first** — I design it in Figma, then bring it to life in Dart
 - 🌱 Deep-diving **Flutter & Dart** — state management, clean architecture, animations
