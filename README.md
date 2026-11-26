@@ -3,7 +3,33 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>## 👋 Hey, I'm Ali
+
+Flutter developer and 4th-year CS student at Alexandria University 🇪🇬.
+I build mobile apps that people actually use, and I lift heavy on the side 🏋️‍♂️
+
+### 🚀 What I'm building
+- **CoreGym**: fitness SaaS with nutrition/workout logging and a coach marketplace
+- **Nutrio**: nutrition coaching platform with AI food analysis
+- **QuickTask**: voice-driven task manager with Google Calendar sync
+- **Vocado**: voice-first AI note-taking app
+- **SafeSwap**: peer-to-peer escrow platform for MENA
+
+### 🛠 Tech
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🏅 Certification
+Flutter, Sprints × Microsoft
+
+### 📫 Let's work together
+Open for freelance projects and internships.
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-PORTFOLIO-URL)
+
+> Code by day, iron by night. Fueled by protein & projects.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
